@@ -16,7 +16,7 @@ Entering the movie production industry involves substantial financial investment
 # Project Structure
 
 movie-market-analysis/
-├── zippedData   # Raw data files(bom.movie_gross.csv,im.db.zip,rt.movie_info.tsv.gz,rt.reviews.tsv.gz,tmdb.movies.csv.gz,tn.movie_budgets.csv.gz)
+├── zippedData   # Raw data files(bom.movie_gross.csv,im.db.zip,rt.movie_info.tsv.gz,rt.reviews.tsv.gz,tmdb.movies.csv.gz,tn.movie_budgets.csv.gz,imdb_movies.csv)
 ├── Movie_market_analysis_notebook.ipynb 
 ├── README.md     
 └── images       
